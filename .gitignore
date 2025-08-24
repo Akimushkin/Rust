@@ -1,6 +1,6 @@
 .DS_Store
 # Generated files
-/target/
+**/target/
 
 # Well, this depends... See below!
 Cargo.lock
